@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Hamza84702
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Laravel and react
-- 💞️ I’m looking to collaborate on proects
-- 📫 Contact details: Saleemh075@gmail.com
+- 👋 Hi, I’m @Hamza84702.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning Laravel and react.
+- 💞️ I’m looking to collaborate on proects.
+- 📫 Contact details: Saleemh075@gmail.com.
   
 
 <!---
